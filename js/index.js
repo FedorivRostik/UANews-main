@@ -37,7 +37,7 @@ async function renderCategories(template, element) {
         </a>
       `;
       const categoryPageTemplate = `
-          <a href="#" class="flex flex-col md:first:col-span-3 md:first:row-span-3 justify-center max-h-20 w-full relative md:max-h-full md:hover:scale-105 transform duration-300 hover:opacity-90">
+          <a href="#" class="flex flex-col md:first:col-span-3 lg:col-span-2 md:first:row-span-3 justify-center max-h-20 w-full relative md:max-h-full md:hover:scale-105 transform duration-300 hover:opacity-90">
             <div class="bg-gradient-to-b from-black/10 to-black/30 absolute left-0 top-0 w-full h-20 md:h-full"></div>
             <img src="${category.photo}" alt="" class="object-cover w-full h-20 md:h-full blur-[1px] hover:blur-none">
             <div class="absolute w-full flex justify-center flex-wrap overflow-hidden">
@@ -72,7 +72,7 @@ async function renderCategoryItems(categoryId) {
         <a href="#" class="container space-y-3 space-x-0 flex-col md:flex-row flex p-4 md:space-x-3 
         md:space-y-0 hover:scale-105 hover:shadow-md  transform duration-300  shadow-sm">
             <div class=" w-full flex justify-center md:w-1/3 ">
-                <img src="${item.photo}" class="w-4/5 object-cover" alt="" />
+                <img src="${item.photo}" class="w-4/5 lg:w-full object-cover" alt="" />
             </div>
             <div class="flex flex-col text-center md:text-left md:w-2/3 space-y-3">
                 <div class="flex flex-col justify-center md:flex-row md:justify-between items-center">
@@ -107,17 +107,17 @@ function renderItemPage(item) {
             <div class="p-2 bg-white shadow-sm shadow-white hover:shadow-md transform duration-300 hover:scale-[1.01]">
                 <div class="flex flex-col space-y-2 md:flex-row md:space-y-0 justify-center items-center mb-7  md:justify-between p-2">
                     <h2
-                        class="text-4xl px-4 text-center uppercase w-11/12 text-red-950 md:text-left md:text-5xl">
+                        class="l lg:text-5xl text-2xl px-4 text-center uppercase w-10/12 md:w-11/12 text-red-950 md:text-left md:text-4xl">
                         ${item.title}
                     </h2>
-                    <span class="text-zinc-400  text-sm w-1/12 text-left">${new Date(item.date).toDateString()}</span>
+                    <span class="text-zinc-400  text-sm w-2/12 md:w-1/12 text-left">${new Date(item.date).toDateString()}</span>
                 </div>
                 <div class="w-full flex justify-center items-center px-1 py-4">
                     <img src="${item.photo}" class="w-11/12 " alt="">
                 </div>
             </div>
             <div class="bg-white px-14 shadow-sm shadow-white py-2  hover:shadow-md transform duration-300 hover:scale-[1.01]">
-            <span class="text-sm md:text-lg">
+            <span class="text-xs md:text-sm lg:text-lg">
               ${item.text}
             </span>
             </div>
