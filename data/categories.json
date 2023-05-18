@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Politic",
+            "photo": "./images/image-politic.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Science",
+            "photo": "./images/image-science.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Sport",
+            "photo": "./images/image-sport.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Technologies",
+            "photo": "./images/image-tech.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Health",
+            "photo": "./images/image-health.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Religion",
+            "photo": "./images/image-religion.jpg"
+        }
+    ]
+}

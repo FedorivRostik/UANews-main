@@ -1,0 +1,30 @@
+{
+    "category": {
+        "id": 3,
+        "name": "Sport",
+        "photo": "./images/image-sport.jpg"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Title1",
+        "date": "2021-01-01T18:25:43.511Z",
+        "photo": "https://place-hold.it/800x400",
+        "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, in! Numquam laboriosam quam a illum? Eum, nobis? Accusantium, eius. Sapiente excepturi mollitia fugiat deserunt similique voluptates nobis autem atque beatae sit aliquam non eum neque, consequatur consequuntur libero. Aut architecto inventore fugiat explicabo asperiores distinctio voluptates maxime eum ex voluptate numquam necessitatibus delectus quam, autem, iste a. Itaque inventore impedit error vitae esse quos voluptatem fuga enim id accusamus necessitatibus adipisci, cupiditate minus similique est eius fugit quod ab asperiores! Delectus unde soluta similique nihil error accusantium quibusdam beatae sed nostrum voluptates perspiciatis nisi repudiandae autem laboriosam, ipsum quas, odit omnis officiis assumenda earum dolor! Similique autem quam, quod minima porro ullam reiciendis! Suscipit sit, molestiae aliquid blanditiis a enim facilis minus consequatur at sapiente iste provident aut tempore iure veniam repellat, eveniet nostrum perspiciatis eligendi reprehenderit eius placeat, rerum impedit accusamus. Molestias consectetur optio eius cumque, mollitia sit impedit vel! Obcaecati, itaque. Incidunt, ducimus. Consequuntur eveniet expedita rem labore nulla accusantium soluta nam. Aspernatur laudantium adipisci, dolores beatae eveniet illo laborum magni, excepturi nam maiores vero dolore dolorum at officiis quos aliquid consequuntur similique doloremque temporibus quas vitae expedita esse eius nulla. Iste eligendi nesciunt ab repellat a soluta!"
+      },
+      {
+        "id": 2,
+        "title": "Title2",
+        "date": "2022-01-01T18:25:43.511Z",
+        "photo": "https://place-hold.it/800x400",
+        "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, in! Numquam laboriosam quam a illum? Eum, nobis? Accusantium, eius. Sapiente excepturi mollitia fugiat deserunt similique voluptates nobis autem atque beatae sit aliquam non eum neque, consequatur consequuntur libero. Aut architecto inventore fugiat explicabo asperiores distinctio voluptates maxime eum ex voluptate numquam necessitatibus delectus quam, autem, iste a. Itaque inventore impedit error vitae esse quos voluptatem fuga enim id accusamus necessitatibus adipisci, cupiditate minus similique est eius fugit quod ab asperiores! Delectus unde soluta similique nihil error accusantium quibusdam beatae sed nostrum voluptates perspiciatis nisi repudiandae autem laboriosam, ipsum quas, odit omnis officiis assumenda earum dolor! Similique autem quam, quod minima porro ullam reiciendis! Suscipit sit, molestiae aliquid blanditiis a enim facilis minus consequatur at sapiente iste provident aut tempore iure veniam repellat, eveniet nostrum perspiciatis eligendi reprehenderit eius placeat, rerum impedit accusamus. Molestias consectetur optio eius cumque, mollitia sit impedit vel! Obcaecati, itaque. Incidunt, ducimus. Consequuntur eveniet expedita rem labore nulla accusantium soluta nam. Aspernatur laudantium adipisci, dolores beatae eveniet illo laborum magni, excepturi nam maiores vero dolore dolorum at officiis quos aliquid consequuntur similique doloremque temporibus quas vitae expedita esse eius nulla. Iste eligendi nesciunt ab repellat a soluta!"
+      },
+      {
+        "id": 3,
+        "title": "Title3",
+        "date": "2023-01-01T18:25:43.511Z",
+        "photo": "https://place-hold.it/800x400",
+        "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, in! Numquam laboriosam quam a illum? Eum, nobis? Accusantium, eius. Sapiente excepturi mollitia fugiat deserunt similique voluptates nobis autem atque beatae sit aliquam non eum neque, consequatur consequuntur libero. Aut architecto inventore fugiat explicabo asperiores distinctio voluptates maxime eum ex voluptate numquam necessitatibus delectus quam, autem, iste a. Itaque inventore impedit error vitae esse quos voluptatem fuga enim id accusamus necessitatibus adipisci, cupiditate minus similique est eius fugit quod ab asperiores! Delectus unde soluta similique nihil error accusantium quibusdam beatae sed nostrum voluptates perspiciatis nisi repudiandae autem laboriosam, ipsum quas, odit omnis officiis assumenda earum dolor! Similique autem quam, quod minima porro ullam reiciendis! Suscipit sit, molestiae aliquid blanditiis a enim facilis minus consequatur at sapiente iste provident aut tempore iure veniam repellat, eveniet nostrum perspiciatis eligendi reprehenderit eius placeat, rerum impedit accusamus. Molestias consectetur optio eius cumque, mollitia sit impedit vel! Obcaecati, itaque. Incidunt, ducimus. Consequuntur eveniet expedita rem labore nulla accusantium soluta nam. Aspernatur laudantium adipisci, dolores beatae eveniet illo laborum magni, excepturi nam maiores vero dolore dolorum at officiis quos aliquid consequuntur similique doloremque temporibus quas vitae expedita esse eius nulla. Iste eligendi nesciunt ab repellat a soluta!"
+      }
+    ]
+  }
